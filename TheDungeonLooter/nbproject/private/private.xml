@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/project/gop/main/GameWindow.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/tdl/main/Main.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/project/gop/main/LoadImageFrom.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/project/gop/main/SpriteSheet.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/project/gop/main/Vector2F.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/project/gop/main/IDGameLoop.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/tdl/gamestate/GameState.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/tdl/gamestate/GameStateManager.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/tdl/gameloop/GameLoop.java</file>
+            <file>file:/E:/Projects/NetBeansProjects/TheDungeonLooter/src/my/tdl/gamestate/DungeonLevelLoader.java</file>
+        </group>
+    </open-files>
+</project-private>
